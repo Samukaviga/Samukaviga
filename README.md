@@ -3,7 +3,8 @@
 ###
 
 <p align="center">- Desenvolvedor BackEnd Laravel</p>
-<p align="center">- ou Técnico de Informática formado pela ETEC e 
+
+<p align="center">Sou Técnico de Informática formado pela ETEC e 
 atualmente estou cursando Ciências da Computação. Minha 
 paixão está no desenvolvimento Web como DEV backend</p>
 
