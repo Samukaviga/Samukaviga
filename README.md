@@ -1,12 +1,12 @@
-<h1 align="left">Sobre mim</h1>
+<h1 align="center">Sobre mim</h1>
 
 ###
 
-<p align="left">- Desenvolvedor BackEnd Laravel</p>
+<p align="center">- Desenvolvedor BackEnd Laravel</p>
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h1 align="center">Tecnologias</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="left">Estatísticas</h1>
+<h1 align="center">Estatísticas</h1>
 
 ###
 
@@ -51,11 +51,11 @@
 
 ###
 
-<h1 align="left">Redes Sociais</h1>
+<h1 align="center">Redes Sociais</h1>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/samuel-gomes-1655b620b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
