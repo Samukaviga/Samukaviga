@@ -5,7 +5,7 @@
 <p align="center">- Desenvolvedor BackEnd Laravel</p>
 
 <p align="center">Sou Técnico de Informática formado pela ETEC e 
-atualmente estou cursando Ciências da Computação. Minha 
+atualmente trabalho na Rede Liceu como Aux. de TI e estou cursando Ciências da Computação. Minha 
 paixão está no desenvolvimento Web como DEV backend</p>
 
 ###
