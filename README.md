@@ -4,7 +4,7 @@
 
 <p align="center">- Desenvolvedor FullStack Laravel</p>
 
-<p align="center">Sou Técnico de Informática formado pela ETEC e atualmente curso Ciências da Computação. Como desenvolvedor FullStack, tenho experiência com PHP (MVC) e utilizo o Laravel para criar aplicações robustas, tanto no BackEnd quanto no FullStack. Possuo conhecimento em bancos de dados MySQL e MongoDB e estou sempre buscando aprimorar minhas habilidades e adotar as melhores práticas de desenvolvimento.</p>
+<p align="center">Sou Técnico de Informática formado pela ETEC e atualmente curso Ciências da Computação. Como desenvolvedor FullStack, tenho experiência com PHP (MVC) e utilizo o Laravel para criar aplicações robustas. Possuo conhecimento em bancos de dados MySQL e MongoDB e estou sempre buscando aprimorar minhas habilidades e adotar as melhores práticas de desenvolvimento.</p>
 
 ###
 
